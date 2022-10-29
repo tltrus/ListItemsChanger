@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListItemsChanger", "abbConvertList\ListItemsChanger.csproj", "{3683E5F0-0D99-45B3-9A5A-410E2E128922}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3683E5F0-0D99-45B3-9A5A-410E2E128922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3683E5F0-0D99-45B3-9A5A-410E2E128922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3683E5F0-0D99-45B3-9A5A-410E2E128922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3683E5F0-0D99-45B3-9A5A-410E2E128922}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72DA958F-7B77-4BA1-850A-F1402739493B}
+	EndGlobalSection
+EndGlobal
